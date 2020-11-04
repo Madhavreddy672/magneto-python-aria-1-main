@@ -50,7 +50,7 @@ This project is heavily inspired from @out386's telegram bot which is written in
 - Index Link support
 
 
-## New ChangeLog by [@AbirHasan2005](https://github.com/AbirHasan2005):
+## New ChangeLog by [@Madhav_Reddy](https://github.com/Madhavreddy672):
 - New code in Line 14 of requirements.txt file.
 	- As you know one of the most popular YouTube video downloading software, **youtube-dl**, was removed from GitHub, according to a release from the **Recording Industry Association of America (RIAA)**.
 	- New code working well.
@@ -89,7 +89,7 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/AbirHasan2005/magneto-python-aria/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Madhavreddy672/magneto-python-aria-1-main/tree/main)
 
 - Configs [Here](https://github.com/AbirHasan2005/magneto-python-aria/tree/main#configs)
 - For any help ask in [Telegram Group](https://t.me/linux_repo):
