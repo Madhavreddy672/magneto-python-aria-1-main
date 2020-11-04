@@ -59,7 +59,7 @@ This project is heavily inspired from @out386's telegram bot which is written in
         - Before Deploy edit Dockerfile. To know what you have to edit ask in Telegram Group: [Linux Repositories](https://t.me/linux_repo)
 
 - You have to change Deploy Button link with your forked Repo Link.
-        - For help Ask in Telegram Group: [Linux Repositories](http://t.me/linux_repo)
+        - For help Ask in Telegram Group: [ThunderMirrors](http://t.me/thunder_mirror_group)
 
 ## About Mega.nz links Mirroring:
 As you know mega.nz links mirroring is on Development Stage. So there are a lot of bugs. Bot can crash and Restart it self automatically. Do mega.nz Mirroring at your own risk.
@@ -92,7 +92,7 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Madhavreddy672/magneto-python-aria-1-main/tree/main)
 
 - Configs [Here](https://github.com/AbirHasan2005/magneto-python-aria/tree/main#configs)
-- For any help ask in [Telegram Group](https://t.me/linux_repo):
+- For any help ask in [Telegram Group](https://t.me/thunder_mirror_group):
 - <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 - You can also deploy on VPS !!
