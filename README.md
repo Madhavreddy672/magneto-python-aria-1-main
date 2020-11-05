@@ -50,7 +50,7 @@ This project is heavily inspired from @out386's telegram bot which is written in
 - Index Link support
 
 
-## New ChangeLog by [@Madhav_Reddy](https://github.com/Madhavreddy672):
+## New ChangeLog by [My friend](https://github.com/AbirHasan2005):
 - New code in Line 14 of requirements.txt file.
 	- As you know one of the most popular YouTube video downloading software, **youtube-dl**, was removed from GitHub, according to a release from the **Recording Industry Association of America (RIAA)**.
 	- New code working well.
